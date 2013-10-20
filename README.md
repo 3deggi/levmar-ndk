@@ -13,7 +13,7 @@ The android interface calls one function in the jni_part.cpp and output the resu
 
 Read the installation manual here:
 
-https://sites.google.com/site/sandymartedi/levmar-ndk
+http://3deggi.blogspot.com/2013/10/levmar-ndk.html
 
 =================
 
